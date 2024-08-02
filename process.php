@@ -62,7 +62,7 @@ header("location: inded.php");
 
 
 
-
+//edit
 if (isset($_GET['edit'])){
 
 	$id = $_GET['edit'];
